@@ -40,7 +40,7 @@ def circulate():
 print("After circulating the values are:",circulate())
 ```
 ## Output:
-![](o.PNG)
+![o](https://user-images.githubusercontent.com/121418437/213903914-ce0b8ff5-16e9-4a7d-af8b-cfaa9514db14.png)
 
 ## Result:
 Thus the circulata the values of N-variables are succesfully solved using python programming
